@@ -14,7 +14,8 @@ i have build my code using flask , PyMongo
   - input at the end '/pods' to access all pods
   - input at the end '/machines/productType:<x>,waterLine:<y>' and replace x and y to your desired filters based on the original schema to access filtered machines
   - input at the end '/pods/productType:<x>,flavor:<y>,size:<z>' and replace x, y and z to your desired filters based on the original schema to access filtered pods
-  
+
+## PS: I CAN CREATE Other Basic Filters to only apply 1 filtered but this solution is generalized for the purpose of the task
   
 ## First task answers
 ### All espresso machines
